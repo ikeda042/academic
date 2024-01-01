@@ -1,6 +1,6 @@
 # 論文情報
 ## タイトル
-Localization of protein aggregation in Escherichia coli is governed by diffusion and nucleoid macromolecular crowding effect
+**Localization of protein aggregation in Escherichia coli is governed by diffusion and nucleoid macromolecular crowding effect**
 ## 著者
 Anne-Sophie Coquel et.al (2013)
 ## リンク
