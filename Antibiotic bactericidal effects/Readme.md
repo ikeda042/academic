@@ -10,16 +10,24 @@ https://www.nature.com/articles/s41579-020-00443-1
 抗生物質はその発見から85年の間で、その作用機序から分子構造まで、ほとんどすべての抗生物質について解明されている。しかし、抗生物質によって細胞が死ぬ決定的原因は解明されていない。このPerspectiveでは既知の知識を利用してその決定的原因について考察する。
 
 # 新規性
-Perspectiveなので考察のみでおそらくない？あるとしたら、これまでの研究を組み合わせて抗生物質による細胞死の決定的原因の推定か
+Perspectiveなので考察のみでおそらくない？あるとしたら、これまでの研究を組み合わせて抗生物質による細胞死の決定的原因の推定か。
 
 
 # メモ
 * アミノグリコシド系とマクロライド系、どちらもタンパク質合成阻害を持つが、静菌的、殺菌的なものが存在する。この差はどこから？という言及があったがまだ未解明。
+* 細胞はいつ死んだと言えるのか？
+  ```
+  Peter Medawar defined death as the non-reversible loss of individuality, a state that requires physical destruction of the biological “structure of the self"
+  ```
+  もしくは,
+  ```
+  if a bacterium cannot form a colony, it is officially dead
+  ```
+* 
+
 
 # TODO 
-* 凝集局在の定量化方法を把握する。
-* 拡散運動に関する方程式の理解(ストークス・アインシュタイン方程式)
-* 顕微鏡画像からの3Dイメージ復元方法を調査(優先度低い)
+
   
 ## 新出単語
 ```
