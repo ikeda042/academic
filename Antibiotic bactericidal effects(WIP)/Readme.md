@@ -15,6 +15,10 @@ Perspectiveなので考察のみでおそらくない？あるとしたら、こ
 # 方法
 抗生物質をbactericidalとbacteriostaticに二分して、それぞれのタイプの抗生物質の培養時間ごとのCFUをグラフにして、killing ratesで比較。
 
+# Figについて
+# fig1 
+Staphylococcus aureusを各抗生物質のMICx10濃度に暴露した際のCFUの経時変化。
+
 
 
 # メモ
